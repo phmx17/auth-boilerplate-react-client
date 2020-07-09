@@ -1,0 +1,27 @@
+.Signup {
+    margin-top: 30px;
+}
+.Signup fieldset {
+    margin-bottom: 20px;
+    width: 30rem;
+    padding: 10px 10px;
+    background-color: #ddd;
+    
+}
+.Signup input {
+    width: 100%;
+    margin-top: 10px;
+    height: 2rem;
+    font-size: 1.2rem;
+}
+.Signup button {
+    padding: 10px 20px;
+    background: red;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+}
+.Signup button:hover {
+    cursor: pointer;
+}
